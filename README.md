@@ -24,6 +24,13 @@ This section examines Virtual Private Networks (VPNs) and how they help secure r
 - Connecting to VPN Through VM
 - Locating IP Through VPN 
 
-<h2>Step 1: Find your personal IP address by visiting 'www.whatismyipaddress.com
-,' which will display your local IP. We will use this information later."</h2>
+<h2>Step 1: Find your personal IP address</h2>
+<b>By visiting 'www.whatismyipaddress.com,' which will display your local IP. We will use this information later."</b>
+<img src="" width="600" alt="VPN"/>
+<p>Next, we will configure our virtual machines on Azure</p>
+<br />
+
+
+<h2>Step 2: Go to Azure to setup our virtual machine</h2>
+<b>Create an account, create a resource group and search virtual machine or type vm</b>
 
