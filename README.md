@@ -24,4 +24,4 @@ This section examines Virtual Private Networks (VPNs) and how they help secure r
 - Connecting to VPN Through VM
 - Locating IP Through VPN 
 
-<h2>Installation Steps</h2>
+<h2>Step 1:</h2>
