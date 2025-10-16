@@ -24,4 +24,6 @@ This section examines Virtual Private Networks (VPNs) and how they help secure r
 - Connecting to VPN Through VM
 - Locating IP Through VPN 
 
-<h2>Step 1:</h2>
+<h2>Step 1: Find your personal IP address by visiting 'www.whatismyipaddress.com
+,' which will display your local IP. We will use this information later."</h2>
+
