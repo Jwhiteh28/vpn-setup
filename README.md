@@ -60,7 +60,7 @@ This section examines Virtual Private Networks (VPNs) and how they help secure r
   <img src="https://i.imgur.com/sJUwgNh.png" width="600" alt="VPN"/>
 </p>
 <p>- The image below shows the VPN being connected and having another IP address</p>
-<img src="" width="600" alt="VPN"/>
+<img src="https://i.imgur.com/uDawnN1.png" width="600" alt="VPN"/>
 <br />
 
 
@@ -68,11 +68,9 @@ This section examines Virtual Private Networks (VPNs) and how they help secure r
 <b>Next lets locate the IP through Proton VPN</b>
 <p>- We will check the IP address again now that we have connected to the VPN. Go to www.whatismyipaddress.com, it will display a different IP address.</p>
 <b>Original VM IP address</b>
-<img src="https://i.imgur.com/uDawnN1.png" width="600" alt="VPN"/>
-<p>
-  <b>VM IP address through VPN</b>
-  <img src="https://i.imgur.com/x8uovgs.png" width="600" alt="VPN"/>
-</p>
+<img src="https://i.imgur.com/oGQsUCL.png" width="600" alt="VPN"/>
+<b>VM IP address through VPN</b>
+<img src="https://i.imgur.com/x8uovgs.png" width="600" alt="VPN"/>
 <br />
 <p>
   Ultimately, from our local computer with its own IP address(Pennsylvannia), we created a virtual machine on Azure, which was assigned its own IP address (located in Virginia). Within that virtual machine, we then used a VPN to change its IP address location to Texas.
